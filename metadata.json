@@ -1,0 +1,6 @@
+{
+  "name": "NXZ | Real Estate Growth & Performance",
+  "description": "NXZ helps real estate developers, builders, brokers and channel partners generate qualified buyer demand, site visits and project sales through performance marketing, technology and AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
